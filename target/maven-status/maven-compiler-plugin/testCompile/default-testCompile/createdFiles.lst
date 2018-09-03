@@ -1,0 +1,5 @@
+com\qa\Tests\DeleteAPITestCase.class
+com\qa\Tests\PostAPITestCase.class
+com\qa\Tests\GetAPITestCase.class
+com\qa\Tests\GetCityInfo.class
+com\qa\Tests\PUTAPITestCase.class
