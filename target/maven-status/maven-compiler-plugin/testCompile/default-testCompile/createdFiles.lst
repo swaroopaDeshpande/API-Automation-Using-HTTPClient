@@ -1,5 +1,8 @@
-com\qa\Tests\DeleteAPITestCase.class
 com\qa\Tests\PostAPITestCase.class
 com\qa\Tests\GetAPITestCase.class
+com\qa\Tests\PostRequestRegisterUser.class
+com\qa\Tests\PostCallDemo.class
+com\qa\Tests\DeleteAPITestCase.class
+com\qa\Tests\GetcallDemo.class
 com\qa\Tests\GetCityInfo.class
 com\qa\Tests\PUTAPITestCase.class

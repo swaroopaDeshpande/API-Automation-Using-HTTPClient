@@ -1,3 +1,8 @@
+com\users\data\RegisterUserDetails.class
+com\qa\client\RestCalls.class
+com\qa\client\RestClientsReqResCode.class
 com\users\data\Users.class
 com\qa\client\RestClient.class
+com\users\data\Customers.class
+com\users\data\UpdateUsers.class
 com\users\data\UsersUpdate.class

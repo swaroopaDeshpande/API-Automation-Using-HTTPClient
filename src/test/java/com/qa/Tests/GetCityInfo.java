@@ -23,7 +23,6 @@ public class GetCityInfo {
 	@BeforeTest
 	public void setUP() {
 		apiUrl = url + "/Washington";
-
 	}
 
 	@Test
@@ -46,9 +45,6 @@ public class GetCityInfo {
 		for (Header header : headers) {
 			hm.put(header.getName(), header.getValue());
 		}
-
 		System.out.println("headers are coming in response" + hm);
-
 	}
-
 }

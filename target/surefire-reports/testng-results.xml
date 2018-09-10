@@ -2,46 +2,46 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="8948" started-at="2018-08-25T03:23:40Z" finished-at="2018-08-25T03:23:49Z">
+  <suite name="Command line suite" duration-ms="6433" started-at="2018-09-04T03:04:09Z" finished-at="2018-09-04T03:04:15Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="8948" started-at="2018-08-25T03:23:40Z" finished-at="2018-08-25T03:23:49Z">
+    <test name="Command line test" duration-ms="6433" started-at="2018-09-04T03:04:09Z" finished-at="2018-09-04T03:04:15Z">
       <class name="com.qa.Tests.PostAPITestCase">
-        <test-method status="PASS" signature="createUserTest()[pri:0, instance:com.qa.Tests.PostAPITestCase@6fadae5d]" name="createUserTest" duration-ms="1999" started-at="2018-08-25T03:23:46Z" finished-at="2018-08-25T03:23:48Z">
+        <test-method status="PASS" signature="createUserTest()[pri:0, instance:com.qa.Tests.PostAPITestCase@6fadae5d]" name="createUserTest" duration-ms="1344" started-at="2018-09-04T03:04:13Z" finished-at="2018-09-04T03:04:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createUserTest -->
       </class> <!-- com.qa.Tests.PostAPITestCase -->
       <class name="com.qa.Tests.GetAPITestCase">
-        <test-method status="PASS" signature="setUP()[pri:0, instance:com.qa.Tests.GetAPITestCase@2d6e8792]" name="setUP" is-config="true" duration-ms="1" started-at="2018-08-25T03:23:44Z" finished-at="2018-08-25T03:23:44Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUP -->
-        <test-method status="PASS" signature="getAPITest()[pri:0, instance:com.qa.Tests.GetAPITestCase@2d6e8792]" name="getAPITest" duration-ms="1739" started-at="2018-08-25T03:23:44Z" finished-at="2018-08-25T03:23:46Z">
+        <test-method status="PASS" signature="getAPITest()[pri:0, instance:com.qa.Tests.GetAPITestCase@2d6e8792]" name="getAPITest" duration-ms="1303" started-at="2018-09-04T03:04:12Z" finished-at="2018-09-04T03:04:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getAPITest -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.qa.Tests.GetAPITestCase@2d6e8792]" name="setUP" is-config="true" duration-ms="0" started-at="2018-09-04T03:04:12Z" finished-at="2018-09-04T03:04:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
       </class> <!-- com.qa.Tests.GetAPITestCase -->
       <class name="com.qa.Tests.DeleteAPITestCase">
-        <test-method status="PASS" signature="setUP()[pri:0, instance:com.qa.Tests.DeleteAPITestCase@71be98f5]" name="setUP" is-config="true" duration-ms="52" started-at="2018-08-25T03:23:40Z" finished-at="2018-08-25T03:23:40Z">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.qa.Tests.DeleteAPITestCase@71be98f5]" name="setUP" is-config="true" duration-ms="28" started-at="2018-09-04T03:04:09Z" finished-at="2018-09-04T03:04:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUP -->
-        <test-method status="PASS" signature="setUP()[pri:0, instance:com.qa.Tests.PostAPITestCase@6fadae5d]" name="setUP" is-config="true" duration-ms="0" started-at="2018-08-25T03:23:40Z" finished-at="2018-08-25T03:23:40Z">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.qa.Tests.PostAPITestCase@6fadae5d]" name="setUP" is-config="true" duration-ms="0" started-at="2018-09-04T03:04:09Z" finished-at="2018-09-04T03:04:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUP -->
-        <test-method status="PASS" signature="setUP()[pri:0, instance:com.qa.Tests.PUTAPITestCase@17f6480]" name="setUP" is-config="true" duration-ms="0" started-at="2018-08-25T03:23:40Z" finished-at="2018-08-25T03:23:40Z">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.qa.Tests.PUTAPITestCase@17f6480]" name="setUP" is-config="true" duration-ms="0" started-at="2018-09-04T03:04:09Z" finished-at="2018-09-04T03:04:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUP -->
-        <test-method status="PASS" signature="deleteAPITest()[pri:0, instance:com.qa.Tests.DeleteAPITestCase@71be98f5]" name="deleteAPITest" duration-ms="4155" started-at="2018-08-25T03:23:40Z" finished-at="2018-08-25T03:23:44Z">
+        <test-method status="PASS" signature="deleteAPITest()[pri:0, instance:com.qa.Tests.DeleteAPITestCase@71be98f5]" name="deleteAPITest" duration-ms="2929" started-at="2018-09-04T03:04:09Z" finished-at="2018-09-04T03:04:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteAPITest -->
       </class> <!-- com.qa.Tests.DeleteAPITestCase -->
       <class name="com.qa.Tests.PUTAPITestCase">
-        <test-method status="PASS" signature="UpdateUserTest()[pri:0, instance:com.qa.Tests.PUTAPITestCase@17f6480]" name="UpdateUserTest" duration-ms="928" started-at="2018-08-25T03:23:48Z" finished-at="2018-08-25T03:23:49Z">
+        <test-method status="PASS" signature="UpdateUserTest()[pri:0, instance:com.qa.Tests.PUTAPITestCase@17f6480]" name="UpdateUserTest" duration-ms="784" started-at="2018-09-04T03:04:14Z" finished-at="2018-09-04T03:04:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- UpdateUserTest -->
